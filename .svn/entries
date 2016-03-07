@@ -1,0 +1,61 @@
+8
+
+dir
+1745
+file:///Rps_Greenfield_V1/VAGreenfield/Workspaces/UtilityWorkspace/MDWS
+file:///Rps_Greenfield_V1
+
+
+
+2015-02-03T19:50:34.926330Z
+1730
+vhapalchambj
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+30b0605a-c1a6-924f-bdf5-74a9314ea0b9
+
+.classpath
+file
+
+
+
+
+2015-02-03T23:02:20.446540Z
+5ed50b4883b0825111edbbc7b5b6b20f
+2015-02-03T19:50:34.926330Z
+1730
+vhapalchambj
+
+.project
+file
+
+
+
+
+2015-02-03T23:02:20.477789Z
+68c54ce4ec808c1cacfda2d0729f7c86
+2015-01-20T07:26:56.341659Z
+1675
+vhapalchambj
+
+src
+dir
+
+bin
+dir
+
+.settings
+dir
+
